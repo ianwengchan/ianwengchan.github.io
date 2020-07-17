@@ -15,10 +15,10 @@ Education
   * Actuarial Science and Mathematical Finance
   * University of Toronto, Statistical Sciences
   
-* **Candidate, Master of Financial Insurance**, expected 2020
+* **Candidate, Master of Financial Insurance,** expected 2020
   * University of Toronto, Statistical Sciences
   
-* **Honours Bachelor of Science**, 2019
+* **Honours Bachelor of Science,** 2019
   * Specialist in Actuarial Science, Major in Statistics, Minor in Mathematics
   * University of Toronto
   * *Awards:*
@@ -31,12 +31,12 @@ Experience
 * **Research Assistant, Department of Statistical Sciences**
   * University of Toronto
 
-* **Intern, Finance Department**, summer 2018
+* **Intern, Finance Department,** summer 2018
   * Bank of China, Macao Branch
 
 Service and Leadership
 ======
-* **Senior Executive, Finance Department**, April 2017 – April 2019
+* **Senior Executive, Finance Department,** April 2017 – April 2019
   * University of Toronto Chinese Students and Scholars Association (UTCSSA)
   
 Skills and Qualifications
