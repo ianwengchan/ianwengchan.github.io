@@ -21,7 +21,7 @@ Education
 * Honours Bachelor of Science, 2019
   * Specialist in Actuarial Science, Major in Statistics, Minor in Mathematics
   * University of Toronto
-  * *Awards:
+  * *Awards:*
     * Dean's List (2015 – 2019)
     * The Provost's Scholar Award (2018 - 2019)
     * The George Gray Falle Scholarships (2016 - 2018)
