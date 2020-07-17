@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Candidate, Doctor of Philosophy (starting September 2020)
+* Candidate, Doctor of Philosophy
   * Actuarial Science and Mathematical Finance
   * University of Toronto, Statistical Sciences
   
-* Candidate, Master of Financial Insurance (2019 − August 2020)
+* Candidate, Master of Financial Insurance, 2020
   * University of Toronto, Statistical Sciences
   
-* Honours Bachelor of Science (2015 − 2019)
+* Honours Bachelor of Science, 2019
   * Specialist in Actuarial Science, Major in Statistics, Minor in Mathematics
   * University of Toronto
-  ** Awards: Dean's List (2015 – 2019), The Provost's Scholar Award (2018 - 2019), The George Gray Falle Scholarships (2016 - 2018)
+  * *Awards: Dean's List (2015 – 2019), The Provost's Scholar Award (2018 - 2019), The George Gray Falle Scholarships (2016 - 2018)*
 
 Experience
 ======
@@ -33,9 +33,13 @@ Experience
   
 Skills and Qualifications
 ======
-* Proficiency in Microsoft Office, Python, R, LaTeX and MATLAB.
-* Society of Actuaries (SOA): passed exams P, FM, IFM, SRM, STAM, LTAM; completed all VEE Credits.
-* Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
+* Software and Programming:
+  * Microsoft Office, Python, R, LaTeX and MATLAB.
+* Society of Actuaries (SOA):
+  * Passed exams P, FM, IFM, SRM, STAM, LTAM;
+  * Completed all VEE Credits.
+* Languages:
+  * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
   
 Service and leadership
 ======
