@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-My name is Ian Weng Chan, but I am more commonly known as Sophia.
+My name is Ian Weng Chan, but I am more commonly known as Sophia. (see *Fun Fact* below)
 
 I am an incoming PhD candidate in actuarial science at the University of Toronto.
 Prior to my current studies, I received my Honours Bachelor of Science in Actuarial Science and my [Masters in Financial Insurance (MFI)](https://mfi.utoronto.ca/)
