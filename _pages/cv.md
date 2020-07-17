@@ -24,7 +24,7 @@ Education
   * *Awards:
     * Dean's List (2015 – 2019)
     * The Provost's Scholar Award (2018 - 2019)
-    * The George Gray Falle Scholarships (2016 - 2018)*
+    * The George Gray Falle Scholarships (2016 - 2018)
 
 Experience
 ======
@@ -40,7 +40,7 @@ Skills and Qualifications
   * Microsoft Office, Python, R, LaTeX and MATLAB.
 * Society of Actuaries (SOA):
   * Passed exams P, FM, IFM, SRM, STAM, LTAM;
-  * Completed all VEE Credits.
+  * Completed all VEE requirements.
 * Languages:
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
   
