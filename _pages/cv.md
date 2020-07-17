@@ -25,10 +25,10 @@ Education
 
 Experience
 ======
-* Research Assistant, Department of Statistical Sciences (May 2020 - current)
+* Research Assistant, Department of Statistical Sciences
   * University of Toronto
 
-* Summer Intern, Finance Department (summer 2018)
+* Intern, Finance Department, summer 2018
   * Bank of China, Macao Branch
   
 Skills and Qualifications
