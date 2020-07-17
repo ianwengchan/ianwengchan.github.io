@@ -43,5 +43,5 @@ Skills and Qualifications
   
 Service and leadership
 ======
-* Senior Executive, Finance Department (April 2017 – April 2019)
+* Senior Executive, Finance Department, April 2017 – April 2019
   * University of Toronto Chinese Students and Scholars Association (UTCSSA)
