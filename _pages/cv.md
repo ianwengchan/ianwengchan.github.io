@@ -33,6 +33,11 @@ Experience
 
 * Intern, Finance Department, summer 2018
   * Bank of China, Macao Branch
+
+Service and Leadership
+======
+* Senior Executive, Finance Department, April 2017 – April 2019
+  * University of Toronto Chinese Students and Scholars Association (UTCSSA)
   
 Skills and Qualifications
 ======
@@ -43,8 +48,3 @@ Skills and Qualifications
   * Completed all VEE requirements.
 * Languages:
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
-  
-Service and leadership
-======
-* Senior Executive, Finance Department, April 2017 – April 2019
-  * University of Toronto Chinese Students and Scholars Association (UTCSSA)
