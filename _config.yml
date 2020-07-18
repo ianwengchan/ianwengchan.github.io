@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ian Weng (Sophia) Chan"
 subtitle                 : "- and her actuarial journey"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Sophia Chan"
 description              : &description "PhD Candidate at the University of Toronto"
 url                      : https://ianwengchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
