@@ -30,7 +30,7 @@ Education
 Experience
 ======
 * **Research Assistant, Department of Statistical Sciences**
-  * Topic: Application and Performance Evaluation of the Logit-weighted Reduced Mixture of Experts Model for General Insurance
+  * Topic: Application and Performance Evaluation of the Logit-weighted Reduced Mixture of Experts Models for General Insurance
   * University of Toronto
 
 * **Intern, Finance Department,** summer 2018
