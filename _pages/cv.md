@@ -20,6 +20,7 @@ Education
   
 * **Honours Bachelor of Science,** 2019
   * Specialist in Actuarial Science, Major in Statistics, Minor in Mathematics
+  * Graduated with High Distinction
   * University of Toronto
   * *Awards:*
     * Dean's List (2015 – 2019)
@@ -29,6 +30,7 @@ Education
 Experience
 ======
 * **Research Assistant, Department of Statistical Sciences**
+  * Topic: Application and Performance Evaluation of the Logit-weighted Reduced Mixture of Experts Model for General Insurance
   * University of Toronto
 
 * **Intern, Finance Department,** summer 2018
