@@ -7,7 +7,7 @@ author_profile: true
 
 My name is Ian Weng Chan, but I am more commonly known as Sophia. (see ***Fun Fact*** below)
 
-I am an incoming PhD candidate in actuarial science at the University of Toronto, supervised by
+I am a PhD student in actuarial science at the University of Toronto, supervised by
 Prof. [Sheldon Lin](https://www.statistics.utoronto.ca/people/directories/all-faculty/sheldon-lin) and 
 Prof. [Andrei Badescu](https://www.statistics.utoronto.ca/people/directories/all-faculty/andrei-badescu).
 Prior to my current studies, I received my Honours Bachelor of Science in Actuarial Science and my [Masters in Financial Insurance (MFI)](https://mfi.utoronto.ca/)
