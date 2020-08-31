@@ -11,7 +11,7 @@ title                    : "Ian Weng (Sophia) Chan"
 subtitle                 : "- and her actuarial journey"
 title_separator          : "-"
 name                     : &name "Sophia Chan"
-description              : &description "PhD Candidate at the University of Toronto"
+description              : &description "PhD Student at the University of Toronto"
 url                      : https://ianwengchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ianwengchan/ianwengchan.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Sophia Chan"
   avatar           : "cut_profile.jpg"
-  bio              : "PhD Candidate at the University of Toronto"
+  bio              : "PhD Student at the University of Toronto"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : 
