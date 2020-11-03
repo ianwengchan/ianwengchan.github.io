@@ -15,7 +15,7 @@ Education
   * Actuarial Science and Mathematical Finance
   * University of Toronto, Statistical Sciences
   
-* **Candidate, Masters of Financial Insurance,** 2020
+* **Masters of Financial Insurance,** 2020
   * University of Toronto, Statistical Sciences
   * *Award:*
     * Academic Achievement Award
