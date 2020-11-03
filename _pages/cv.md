@@ -17,7 +17,7 @@ Education
   
 * **Candidate, Masters of Financial Insurance,** 2020
   * University of Toronto, Statistical Sciences
-  * *Awards:*
+  * *Award:*
     * Academic Achievement Award
   
 * **Honours Bachelor of Science,** 2019
