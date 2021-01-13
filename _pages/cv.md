@@ -16,17 +16,16 @@ Education
   * University of Toronto, Statistical Sciences
   
 * **Masters of Financial Insurance,** 2020
+  * Recipient of the Academic Achievement Award
   * University of Toronto, Statistical Sciences
-    * Academic Achievement Award
   
 * **Honours Bachelor of Science,** 2019
   * Specialist in Actuarial Science, Major in Statistics, Minor in Mathematics
-  * Graduated with High Distinction
-  * University of Toronto
-  * *Awards:*
+  * Graduated with High Distinction, Other Awards:
     * Dean's List (2015 – 2019)
     * The Provost's Scholar Award (2018 - 2019)
     * The George Gray Falle Scholarships (2016 - 2018)
+  * University of Toronto
 
 Experience
 ======
