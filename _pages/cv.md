@@ -30,6 +30,12 @@ Education
 
 Experience
 ======
+* **Teaching Assistant, Department of Statistical Sciences**
+  * *Courses:*
+    * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020)
+    * ACT370 - Financial Principles for Actuarial Science II (Winter 2021)
+  * University of Toronto
+
 * **Research Assistant, Department of Statistical Sciences**
   * Topic: Application and Performance Evaluation of the Logit-weighted Reduced Mixture of Experts Models for General Insurance
   * University of Toronto
