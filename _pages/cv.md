@@ -33,6 +33,9 @@ Experience
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020)
     * ACT370 - Financial Principles for Actuarial Science II (Winter 2021)
+    * ACT455 - Advanced Topics in Actuarial Science (Winter 2021)
+    * ACT466 - Credibility and Simulation (Winter 2021)
+    * STA2551 - Finance and Insurance Case Studies (Winter 2021)
   * University of Toronto
 
 * **Research Assistant, Department of Statistical Sciences**
