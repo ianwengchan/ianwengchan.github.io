@@ -32,6 +32,7 @@ Experience
 * **Teaching Assistant, Department of Statistical Sciences**
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020)
+    * ACT240 - Mathematics of Investment & Credit (Fall 2021)
     * ACT348 - Advanced Life Contingencies (Fall 2021)
     * ACT370 - Financial Principles for Actuarial Science II (Winter 2021)
     * ACT451 - Risk Theory (Fall 2021)
