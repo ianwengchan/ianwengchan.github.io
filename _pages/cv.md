@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Student, Doctor of Philosophy**
+* **Candidate, Doctor of Philosophy**
   * Actuarial Science and Mathematical Finance
   * University of Toronto, Statistical Sciences
   
