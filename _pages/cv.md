@@ -33,11 +33,12 @@ Experience
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020)
     * ACT240 - Mathematics of Investment & Credit (Fall 2021)
+    * ACT247 - Introductory Life Contingencies (Winter 2022)
     * ACT348 - Advanced Life Contingencies (Fall 2021)
-    * ACT370 - Financial Principles for Actuarial Science II (Winter 2021)
+    * ACT370 - Financial Principles for Actuarial Science II (Winter 2021, 2022)
     * ACT451 - Risk Theory (Fall 2021)
-    * ACT455 - Advanced Topics in Actuarial Science (Winter 2021)
-    * ACT466 - Credibility and Simulation (Winter 2021)
+    * ACT455 - Advanced Topics in Actuarial Science (Winter 2021, 2022)
+    * ACT466 - Credibility and Simulation (Winter 2021, 2022)
     * STA2551 - Finance and Insurance Case Studies (Winter 2021)
   * University of Toronto
 
