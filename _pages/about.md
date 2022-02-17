@@ -18,4 +18,4 @@ In terms of professional development, having passed six [Society of Actuaries (S
 I am committed to acquiring my ASA accreditation, followed by the FSA.
 
 ***Fun Fact:*** I am both born and self-recognised as female, despite my seemingly masculine name. In fact, my first name is "Ian Weng" together, so I am not the Ian you might 
-have assumed. "Ian Weng" is actually the pronunciation in Portuguese of my Chinese name in Cantonese (okay I know this is complicated, take your time).  If you are an English speaker and would like to pronounce my name right, you may try the better English "translation" "Yan Wing" instead.
+have assumed. "Ian Weng" is actually the pronunciation in Portuguese of my Chinese name in Cantonese (okay I know this is complicated).  If you are an English speaker and would like to pronounce my name right, you may try the better English "translation" "Yan Wing" instead.
