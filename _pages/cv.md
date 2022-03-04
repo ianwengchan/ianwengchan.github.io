@@ -59,7 +59,7 @@ Skills and Qualifications
 * Software and Programming:
   * Microsoft Office, Python, R, LaTeX and MATLAB.
 * Society of Actuaries (SOA):
-  * Passed exams P, FM, IFM, SRM, STAM, LTAM;
+  * Passed exams P, FM, IFM, SRM, STAM, LTAM, PA;
   * Completed all VEE requirements.
 * Languages:
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
