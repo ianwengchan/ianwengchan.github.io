@@ -14,7 +14,7 @@ Prior to my current studies, I received my Honours Bachelor of Science in Actuar
 both from U of T. See my [profile](https://www.sgs.utoronto.ca/profile/sophia-chan/) on the School of Graduate Studies community,
 sharing my thoughts and experience in the MFI program.
 
-In terms of professional development, having passed six [Society of Actuaries (SOA)](https://www.soa.org/Canada) exams and completed all VEE requirements,
+In terms of professional development, having passed seven [Society of Actuaries (SOA)](https://www.soa.org/Canada) exams and completed all VEE requirements,
 I am committed to acquiring my ASA accreditation, followed by the FSA.
 
 ***Fun Fact:*** I am both born and self-recognised as female, despite my seemingly masculine name. In fact, my first name is "Ian Weng" together, so I am not the Ian you might 
