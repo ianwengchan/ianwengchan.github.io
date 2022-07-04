@@ -14,8 +14,7 @@ Prior to my current studies, I received my Honours Bachelor of Science in Actuar
 both from U of T. See my [profile](https://www.sgs.utoronto.ca/profile/sophia-chan/) on the School of Graduate Studies community,
 sharing my thoughts and experience in the MFI program.
 
-In terms of professional development, having passed seven [Society of Actuaries (SOA)](https://www.soa.org/Canada) exams and completed all VEE requirements,
-I am committed to acquiring my ASA accreditation, followed by the FSA.
+In terms of professional development, I am an ASA of the [Society of Actuaries (SOA)](https://www.soa.org), and am committed to acquiring my FSA accreditation.
 
 ***Fun Fact:*** I am both born and self-recognised as female, despite my seemingly masculine name. In fact, my first name is "Ian Weng" together, so I am not the Ian you might 
 have assumed. "Ian Weng" is actually the pronunciation in Portuguese of my Chinese name in Cantonese (okay I know this is complicated).  If you are an English speaker and would like to pronounce my name right, you may try the better English "translation" "Yan Wing" instead.
