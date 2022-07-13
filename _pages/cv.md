@@ -33,8 +33,8 @@ Experience
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020)
     * ACT240 - Mathematics of Investment & Credit (Fall 2021)
-    * ACT247 - Introductory Life Contingencies (Winter 2022)
-    * ACT348 - Advanced Life Contingencies (Fall 2021)
+    * ACT247 - Introductory Life Contingencies (Winter 2022; Summer 2022)
+    * ACT348 - Advanced Life Contingencies (Fall 2021; Summer 2022)
     * ACT370 - Financial Principles for Actuarial Science II (Winter 2021, 2022)
     * ACT451 - Risk Theory (Fall 2021)
     * ACT455 - Advanced Topics in Actuarial Science (Winter 2021, 2022)
