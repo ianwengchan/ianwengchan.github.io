@@ -42,7 +42,7 @@ Experience
     * STA2551 - Finance and Insurance Case Studies (Winter 2021)
   * University of Toronto
 
-* **Research Assistant, Department of Statistical Sciences**
+* **Research Assistant, Department of Statistical Sciences,** summer 2020
   * Topic: Application and Performance Evaluation of the Logit-weighted Reduced Mixture of Experts Models for General Insurance
   * University of Toronto
 
