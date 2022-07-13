@@ -57,7 +57,7 @@ Service and Leadership
 Skills and Qualifications
 ======
 * Software and Programming:
-  * Microsoft Office, Python, R, LaTeX and MATLAB.
+  * Microsoft Office, R, SQL, Python, LaTeX and MATLAB.
 * Society of Actuaries (SOA):
   * ASA.
 * Languages:
