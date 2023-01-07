@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ======
-Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2022). A posteriori risk classification and ratemaking with random effects in the mixture-of-experts model. Submitted for review. Preprint available at [arXiv:2209.15212](https://arxiv.org/abs/2209.15212/).
+Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2022). A posteriori risk classification and ratemaking with random effects in the mixture-of-experts model. *Submitted for review.* Preprint available at [arXiv:2209.15212](https://arxiv.org/abs/2209.15212/).
 
 Talks
 ======
