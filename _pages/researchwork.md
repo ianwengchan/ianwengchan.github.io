@@ -16,6 +16,8 @@ Presentations
 ======
 **Upcoming:**
 
+The Logit-weighted Reduced Mixture of Experts (LRMoE) - A flexible modeling tool for actuarial applications, *iCAS Data Science and Analytics Forum,* Coronado, CA, USA, March 13, 2023
+
 Mixture-of-Experts Models for Claim Frequency and Severity, *CAS Ratemaking, Product and Modeling Seminar,* Coronado, CA, USA, March 13-15, 2023
 
 <!-- {% for post in site.publications reversed %}
