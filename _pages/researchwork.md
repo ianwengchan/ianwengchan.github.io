@@ -16,9 +16,13 @@ Presentations
 ======
 **Upcoming:**
 
+**Past:**
+
 The Logit-weighted Reduced Mixture of Experts (LRMoE) - A flexible modeling tool for actuarial applications, *iCAS Data Science and Analytics Forum,* Coronado, CA, USA, March 13, 2023
+- [Jupyter notebook](https://github.com/UofTActuarial/Demo-LRMoE-jl/blob/master/notebooks/2023-iCAS-truncation-demo.ipynb) for live demo
 
 Mixture-of-Experts Models for Claim Frequency and Severity, *CAS Ratemaking, Product and Modeling Seminar,* Coronado, CA, USA, March 13-15, 2023
+- [Slides](https://actsci.utstat.utoronto.ca/CAS-RPM-2023-Presentation/#/title-slide) for presentation and [Jupyter notebook](https://github.com/UofTActuarial/Demo-LRMoE-jl/blob/master/notebooks/2023-CAS-Australian-demo.ipynb) for live demo
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
