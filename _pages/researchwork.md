@@ -10,6 +10,8 @@ author_profile: true
 
 Publications
 ======
+**Chan, I. W.**, Tseung, S. C., Badescu, A. L., & Lin, X. S. (2023). Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behaviour. *Submitted for review.* Preprint available at [arXiv:2304.10591](https://arxiv.org/abs/2304.10591/).
+
 Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2022). A posteriori risk classification and ratemaking with random effects in the mixture-of-experts model. *Submitted for review.* Preprint available at [arXiv:2209.15212](https://arxiv.org/abs/2209.15212/).
 
 Presentations
