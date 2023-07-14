@@ -29,6 +29,10 @@ Education
 
 Experience
 ======
+* **Course Instructor, Department of Statistical Sciences**
+  * ACT247 - Introductory Life Contingencies (Summer 2023)
+  * University of Toronto
+
 * **Teaching Assistant, Department of Statistical Sciences**
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020, 2022)
@@ -42,6 +46,7 @@ Experience
     * ACT455 - Advanced Topics in Actuarial Science (Winter 2021, 2022, 2023)
     * ACT466 - Credibility and Simulation (Winter 2021, 2022, 2023)
     * STA2551 - Finance and Insurance Case Studies (Winter 2021)
+  * Recipient of the Teaching Assistant Award (June 2023)
   * University of Toronto
 
 * **Research Assistant, Department of Statistical Sciences,** summer 2020
@@ -65,5 +70,6 @@ Skills and Qualifications
   * Microsoft Office, R, Julia, SQL, Python, LaTeX and MATLAB.
 * Society of Actuaries (SOA):
   * ASA.
+  * Passed Exam QFIQF.
 * Languages:
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
