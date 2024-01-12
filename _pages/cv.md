@@ -37,15 +37,16 @@ Experience
   * *Courses:*
     * ACT230 - Mathematics of Finance for Non-Actuaries (Fall 2020, 2022)
     * ACT240 - Mathematics of Investment & Credit (Fall 2021)
-    * ACT247 - Introductory Life Contingencies (Winter 2022, 2023; Summer 2022)
+    * ACT247 - Introductory Life Contingencies (Winter 2022, 2023, 2024; Summer 2022)
     * ACT348 - Advanced Life Contingencies (Fall 2021, 2022; Summer 2022)
-    * ACT349 - Corporate Finance for Actuarial Science (Fall 2022)
+    * ACT349 - Corporate Finance for Actuarial Science (Fall 2022, 2023)
     * ACT370 - Financial Principles for Actuarial Science II (Winter 2021, 2022)
     * ACT451 - Loss Models (Fall 2021)
-    * ACT452 - Loss Models II (Winter 2023)
-    * ACT455 - Advanced Topics in Actuarial Science (Winter 2021, 2022, 2023)
-    * ACT466 - Credibility and Simulation (Winter 2021, 2022, 2023)
+    * ACT452 - Loss Models II (Winter 2023, 2024)
+    * ACT455 - Advanced Topics in Actuarial Science (Winter 2021, 2022, 2023, 2024)
+    * ACT466 - Credibility and Simulation (Winter 2021, 2022, 2023, 2024)
     * STA2551 - Finance and Insurance Case Studies (Winter 2021)
+    * Statistics Aid Centre
   * Recipient of the Teaching Assistant Award (June 2023)
   * University of Toronto
 
@@ -70,6 +71,6 @@ Skills and Qualifications
   * Microsoft Office, R, Julia, SQL, Python, LaTeX and MATLAB.
 * Society of Actuaries (SOA):
   * ASA.
-  * Passed Exam QFIQF.
+  * Passed Exams QFI QF, QFI IRM.
 * Languages:
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
