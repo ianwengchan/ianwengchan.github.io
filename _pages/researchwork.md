@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ======
-**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2024+). From Telematics to Driving Risk: The Study and Modelling of Trip-Level Vehicle Telematics Data. *Working Paper; patent pending*.
+**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2024). Unsupervised Detection of Anomalous Driving Patterns Using High Resolution Telematics Time Series Data. *Submitted for review; patent pending.* Preprint available at [arXiv:2412.08106](https://arxiv.org/abs/2412.08106).
 
 **Chan, I. W.**, Tseung, S. C., Badescu, A. L., & Lin, X. S. (2024). Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior. *North American Actuarial Journal*, 1-35. [Link to Article](https://www.tandfonline.com/doi/full/10.1080/10920277.2024.2376816)
 
@@ -21,6 +21,7 @@ Presentations
 **Upcoming:**
 
 **Past:**
+
 Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behaviour, *59th Actuarial Research Conference,* Murfreesboro, TN, USA, July 18--20, 2024
 
 Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behaviour, *27th International Congress on Insurance: Mathematics and Economics,* Chicago, IL, USA, July 8--11, 2024
