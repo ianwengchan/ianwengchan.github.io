@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ======
-**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2024). Unsupervised Detection of Anomalous Driving Patterns Using High Resolution Telematics Time Series Data. *Submitted for review; patent pending.* Preprint available at [arXiv:2412.08106](https://arxiv.org/abs/2412.08106).
+**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2025). Assessing driving risk through unsupervised detection of anomalies in telematics time series data. *ASTIN Bulletin*, 55(2), 205–241. [Link to Article](https://doi.org/10.1017/asb.2025.14)
 
 **Chan, I. W.**, Tseung, S. C., Badescu, A. L., & Lin, X. S. (2024). Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior. *North American Actuarial Journal*, 1-35. [Link to Article](https://www.tandfonline.com/doi/full/10.1080/10920277.2024.2376816)
 
@@ -19,6 +19,8 @@ Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2023)
 Presentations
 ======
 **Upcoming:**
+
+Assessing Driving Risk via Telematics Time Series Data, *2025 Statistical Society of Canada Annual Meeting,* Saskatoon, Saskatchewan, SK, Canada, May 25--28, 2025
 
 **Past:**
 
