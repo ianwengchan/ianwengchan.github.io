@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+* **Assistant Professor (Actuarial Science)**
+  * Division of Banking and Finance
+  * Nanyang Technological University, Nanyang Business School
+
 Education
 ======
-* **Candidate, Doctor of Philosophy**
+* **Candidate, Doctor of Philosophy, ** 2025
   * With Concentration in Actuarial Science
+  * Supervised by Prof. Andrei Badescu and Prof. Sheldon Lin
   * University of Toronto, Department of Statistical Sciences
   
 * **Masters of Financial Insurance,** 2020
