@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* **Candidate, Doctor of Philosophy, ** 2025
+* **Candidate, Doctor of Philosophy,** 2025
   * With Concentration in Actuarial Science
   * Supervised by Prof. Andrei Badescu and Prof. Sheldon Lin
   * University of Toronto, Department of Statistical Sciences
