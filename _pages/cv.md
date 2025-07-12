@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
 * **Assistant Professor (Actuarial Science)**
   * Division of Banking and Finance
   * Nanyang Technological University, Nanyang Business School
