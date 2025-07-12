@@ -12,8 +12,8 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Research Group"
-    url: https://actsci.utstat.utoronto.ca
+  # - title: "Research Group"
+  #   url: https://actsci.utstat.utoronto.ca
     
 #  - title: "Publications"
 #    url: /publications/
