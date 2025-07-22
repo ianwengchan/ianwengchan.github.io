@@ -20,9 +20,9 @@ Presentations
 ======
 **Upcoming:**
 
-Assessing Driving Risk via Telematics Time Series Data, *2025 Statistical Society of Canada Annual Meeting,* Saskatoon, Saskatchewan, SK, Canada, May 25--28, 2025
-
 **Past:**
+
+Assessing Driving Risk via Telematics Time Series Data, *2025 Statistical Society of Canada Annual Meeting,* Saskatoon, Saskatchewan, SK, Canada, May 25--28, 2025
 
 Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behaviour, *59th Actuarial Research Conference,* Murfreesboro, TN, USA, July 18--20, 2024
 
