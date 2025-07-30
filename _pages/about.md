@@ -7,7 +7,7 @@ author_profile: true
 
 My name is Ian Weng Chan, but I am more commonly known as Sophia. (see ***Fun Fact*** below)
 
-I am an Assistant Professor in actuarial science, under the [Division of Banking and Finance](https://www.ntu.edu.sg/business/academic-divisions/banking-finance), at Nanyang Business School, Nanyang Technological University.
+I am an Assistant Professor of actuarial science, under the [Division of Banking and Finance](https://www.ntu.edu.sg/business/academic-divisions/banking-finance), at Nanyang Business School, Nanyang Technological University.
 
 Prior to this, I completed my PhD in Statistics (with concentration in actuarial science) at the University of Toronto, supervised by
 Prof. [Sheldon Lin](https://www.statistics.utoronto.ca/people/directories/all-faculty/sheldon-lin) and 
