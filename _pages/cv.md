@@ -11,13 +11,13 @@ redirect_from:
 
 Current Position
 ======
-* **Assistant Professor (Actuarial Science)**
+* **Assistant Professor (Actuarial Science),** since July 2025
   * Division of Banking and Finance
   * Nanyang Technological University, Nanyang Business School
 
 Education
 ======
-* **Candidate, Doctor of Philosophy,** 2025
+* **Doctor of Philosophy,** 2025
   * With Concentration in Actuarial Science
   * Supervised by Prof. Andrei Badescu and Prof. Sheldon Lin
   * University of Toronto, Department of Statistical Sciences
@@ -100,6 +100,6 @@ Skills and Qualifications
   * Microsoft Office, R, Julia, SQL, Python, LaTeX and MATLAB.
 * **Society of Actuaries (SOA):**
   * ASA.
-  * Passed Exams QFI QF, QFI IRM.
+  * Passed Exams QFI QF, QFI IRM, all FSA QFI modules.
 * **Languages:**
   * Native in Cantonese and Mandarin, fluent in English, elementary in Portuguese.
