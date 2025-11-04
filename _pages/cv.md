@@ -58,6 +58,10 @@ Education
 
 Experience
 ======
+* **Course Instructor, Nanyang Business School**
+  * BA3201 - Life Contingencies and Demography (Semester 2, 2025)
+  * Nanyang Technological University
+
 * **Course Instructor, Department of Statistical Sciences**
   * ACT247 - Introductory Life Contingencies (Summer 2023)
   * University of Toronto
