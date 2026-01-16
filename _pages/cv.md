@@ -59,7 +59,7 @@ Education
 Experience
 ======
 * **Course Instructor, Nanyang Business School**
-  * BA3201 - Life Contingencies and Demography (Semester 2, 2025)
+  * BA3201 - Life Contingencies and Demography (Semester 1, AY2025-26)
   * Nanyang Technological University
 
 * **Course Instructor, Department of Statistical Sciences**
@@ -90,6 +90,7 @@ Experience
 * **Intern, Finance Department,** summer 2018
   * Bank of China, Macao Branch
 
+<!--
 Service and Leadership
 ======
 * **Organizing Committee, Statistics Graduate Student Research Day 2023** 
@@ -97,6 +98,7 @@ Service and Leadership
 
 * **Senior Executive, Finance Department,** April 2017 – April 2019
   * University of Toronto Chinese Students and Scholars Association (UTCSSA)
+-->
   
 Skills and Qualifications
 ======
