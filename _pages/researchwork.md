@@ -20,6 +20,8 @@ Presentations
 ======
 **Upcoming:**
 
+Assessing Driving Risk Through Unsupervised Detection of Anomalies in Telematics Time Series Data, *ASTIN Webinar*, online, April 22, 2026, 10-11am EST
+
 **Past:**
 
 Enhancing Auto-Insurance Ratemaking With Telematics Data, *Canadian Institute of Actuaries Webcast*, online, October 2, 2025
