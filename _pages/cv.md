@@ -12,7 +12,7 @@ redirect_from:
 Current Position
 ======
 * **Assistant Professor (Actuarial Science),** since July 2025
-  * Division of Banking and Finance
+  * Division of Finance
   * Nanyang Technological University, Nanyang Business School
 
 Education
