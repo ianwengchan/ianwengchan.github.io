@@ -59,8 +59,10 @@ Education
 Experience
 ======
 * **Course Instructor, Nanyang Business School**
-  * BA3201 - Life Contingencies and Demography (Semester 1, AY2025-26)
-  * Nanyang Technological University
+   * *Courses:*
+      * BA3201 - Life Contingencies and Demography (Semester 1, AY2025-26, 2026-27)
+      * BA3202 - Actuarial Statistics (Semester 1, AY2026-27)
+   * Nanyang Technological University
 
 * **Course Instructor, Department of Statistical Sciences**
   * ACT247 - Introductory Life Contingencies (Summer 2023)
