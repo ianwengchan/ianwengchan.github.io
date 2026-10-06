@@ -11,13 +11,22 @@ author_profile: true
 Publications and Preprints
 ======
 
-Calcetero Vanegas, S., & **Chan, I. W.** (2026). A Dirichlet Mixed-Membership Model for Exact Multivariate Distributional Credibility. *arXiv preprint*, arXiv:2610.05741. [Link to Preprint](https://arxiv.org/abs/2610.05741)
+Calcetero Vanegas, S., & **Chan, I. W.** (2026). A Dirichlet Mixed-Membership Model for Exact Multivariate Distributional Credibility. *arXiv preprint*, arXiv:2610.05741. [Preprint](https://arxiv.org/abs/2610.05741) · [Software](https://github.com/ianwengchan/DMMM.jl)
 
-**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2025). Assessing driving risk through unsupervised detection of anomalies in telematics time series data. *ASTIN Bulletin*, 55(2), 205–241. [Link to Article](https://doi.org/10.1017/asb.2025.14)
+**Chan, I. W.**, Badescu, A. L., & Lin, X. S. (2025). Assessing driving risk through unsupervised detection of anomalies in telematics time series data. *ASTIN Bulletin*, 55(2), 205–241. [Article](https://doi.org/10.1017/asb.2025.14) · [Software](https://github.com/ianwengchan/HMMToolkit)
 
-**Chan, I. W.**, Tseung, S. C., Badescu, A. L., & Lin, X. S. (2025). Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior. *North American Actuarial Journal*, 29(2), 275–309. [Link to Article](https://doi.org/10.1080/10920277.2024.2376816)
+**Chan, I. W.**, Tseung, S. C., Badescu, A. L., & Lin, X. S. (2025). Data Mining of Telematics Data: Unveiling the Hidden Patterns in Driving Behavior. *North American Actuarial Journal*, 29(2), 275–309. [Article](https://doi.org/10.1080/10920277.2024.2376816)
 
-Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2023). Improving risk classification and ratemaking using mixture-of-experts models with random effects. *Journal of Risk and Insurance*, 90(3), 789–820. [Link to Article](https://doi.org/10.1111/jori.12436)
+Tseung, S. C., **Chan, I. W.**, Fung, T. C., Badescu, A. L., & Lin, X. S. (2023). Improving risk classification and ratemaking using mixture-of-experts models with random effects. *Journal of Risk and Insurance*, 90(3), 789–820. [Article](https://doi.org/10.1111/jori.12436)
+
+
+Software
+======
+
+**[DMMM.jl](https://github.com/ianwengchan/DMMM.jl)** — Julia package for estimation and prediction with the Dirichlet Mixed-Membership Model for multivariate distributional credibility. [Related Preprint](https://arxiv.org/abs/2610.05741)
+
+**[HMMToolkit](https://github.com/ianwengchan/HMMToolkit)** — Julia framework for fitting and analyzing discrete- and continuous-time hidden Markov models, with tools for unsupervised anomaly detection. [Related Article](https://doi.org/10.1017/asb.2025.14)
+
 
 Presentations
 ======
